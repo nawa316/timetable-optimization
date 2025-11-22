@@ -1,0 +1,10 @@
+output 11-22-2025 16-23-55 Initial Solution.xlsx,848,0,15,1
+output 11-22-2025 16-24-04 Initial Solution.xlsx,861,0,16,0
+output 11-22-2025 17-36-19 Initial Solution.xlsx,921,0,14,1
+output 11-22-2025 17-38-59 Initial Solution.xlsx,909,0,15,0
+output 11-22-2025 17-40-04 Initial Solution.xlsx,904,0,15,0
+output 11-22-2025 17-42-42 Initial Solution.xlsx,798,0,17,0
+output 11-22-2025 17-45-22 Initial Solution.xlsx,877,0,11,0
+output 11-22-2025 17-46-07 Initial Solution.xlsx,817,0,18,0
+output 11-22-2025 17-48-48 Initial Solution.xlsx,846,0,17,0
+output 11-22-2025 17-49-13 Initial Solution.xlsx,875,0,15,0

@@ -1,0 +1,8 @@
+output 11-22-2025 16-24-04.xlsx 10.991045688 seconds Penalty 0 Perulangan 0
+output 11-22-2025 17-38-58.xlsx 161.631293241 seconds Penalty 2 Perulangan 1000000
+output 11-22-2025 17-40-04.xlsx 65.489674533 seconds Penalty 0 Perulangan 412564
+output 11-22-2025 17-42-42.xlsx 158.019119991 seconds Penalty 2 Perulangan 1000000
+output 11-22-2025 17-45-21.xlsx 158.982463938 seconds Penalty 2 Perulangan 1000000
+output 11-22-2025 17-46-07.xlsx 45.593446357 seconds Penalty 0 Perulangan 286495
+output 11-22-2025 17-48-48.xlsx 161.023073155 seconds Penalty 2 Perulangan 1000000
+output 11-22-2025 17-49-13.xlsx 24.261748374 seconds Penalty 0 Perulangan 145212
